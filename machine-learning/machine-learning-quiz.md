@@ -7,12 +7,16 @@
 - [ ] pivot table
 - [ ] K-means cluster diagram
 
+**Explanation**: The team created linear regression and scatter plots to visualize the relationship between visit frequency, meal size, and spending.
+
 #### Q2. You work for an organization that sells a spam filtering service to large companies. Your organization wants to transition its product to use machine learning. It currently a list Of 250,00 keywords. If a message contains more than few of these keywords, then it is identified as spam. What would be one advantage of transitioning to machine learning?
 
 - [ ] The product would look for new patterns in spam messages.
 - [ ] The product could go through the keyword list much more quickly.
 - [ ] The product could have a much longer keyword list.
 - [x] The product could find spam messages using far fewer keywords.
+
+**Explanation**: Machine learning could enable the product to find spam messages using far fewer keywords, improving efficiency.
 
 #### Q3. You work for a music streaming service and want to use supervised machine learning to classify music into different genres. Your service has collected thousands of songs in each genre, and you used this as your training data. Now you pull out a small random subset of all the songs in your service. What is this subset called?
 
@@ -21,6 +25,8 @@
 - [ ] big data
 - [x] test data
 
+**Explanation**: The random subset used to evaluate the model’s performance is called test data.
+
 #### Q4. In traditional computer programming, you input commands. What do you input with machine learning?
 
 - [ ] patterns
@@ -28,12 +34,16 @@
 - [ ] rules
 - [x] data
 
+**Explanation**: In machine learning, you input data instead of commands.
+
 #### Q5. Your company wants to predict whether existing automotive insurance customers are more likely to buy homeowners insurance. It created a model to better predict the best customers contact about homeowners insurance, and the model had a low variance but high bias. What does that say about the data model?
 
 - [x] It was consistently wrong.
 - [ ] It was inconsistently wrong.
 - [ ] It was consistently right.
 - [ ] It was equally right end wrong.
+
+**Explanation**: A low variance but high bias model indicates that it was consistently wrong in its predictions.
 
 [Reference](https://medium.com/datadriveninvestor/bias-and-variance-in-machine-learning-51fdd38d1f86)
 
@@ -44,12 +54,16 @@
 - [ ] Create a training set of unusual patterns and ask the machine learning algorithms to classify them.
 - [x] Create a training set of normal weather and have the machine look for similar patterns.
 
+**Explanation**: Start by creating a training set of normal weather and have the machine look for similar patterns to detect changes.
+
 #### Q7. You work in a data science team that wants to improve the accuracy of its K-nearest neighbor result by running on top of a naive Bayes result. What is this an example of?
 
 - [ ] regression
 - [ ] boosting
 - [ ] bagging
 - [x] stacking
+
+**Explanation**: Using K-nearest neighbor on top of a naive Bayes result is an example of stacking, a technique to combine models.
 
 #### Q8. `____` looks at the relationship between predictors and your outcome.
 
@@ -58,12 +72,16 @@
 - [ ] Big data
 - [ ] Unsupervised learning
 
+**Explanation**: Regression analysis looks at the relationship between predictors and the outcome.
+
 #### Q9. What is an example of a commercial application for a machine learning system?
 
 - [ ] a data entry system
 - [ ] a data warehouse system
 - [ ] a massive data repository
 - [x] a product recommendation system
+
+**Explanation**: A product recommendation system is an example of a commercial application for machine learning.
 
 #### Q10. What does this image illustrate?
 
@@ -74,12 +92,16 @@
 - [ ] K-nearest neighbor
 - [ ] a clear trendline
 
+**Explanation**: The image illustrates a decision tree, a common machine learning model for classification.
+
 #### Q11. You work for a power company that owns hundreds of thousands of electric meters. These meters are connected to the internet and transmit energy usage data in real-time. Your supervisor asks you to direct project to use machine learning to analyze this usage data. Why are machine learning algorithms ideal in this scenario?
 
 - [ ] The algorithms would help the meters access the internet.
 - [ ] The algorithms will improve the wireless connectivity.
 - [x] The algorithms would help your organization see patterns of the data.
 - [ ] By using machine learning algorithms, you are creating an IoT device.
+
+**Explanation**: Machine learning algorithms are ideal in this scenario because they can help your organization see patterns in the data.
 
 #### Q12. To predict a quantity value. use `___`.
 
@@ -88,12 +110,16 @@
 - [ ] classification
 - [ ] dimensionality reduction
 
+**Explanation**: To predict a quantity value, use regression.
+
 #### Q13. Why is naive Bayes called naive?
 
 - [ ] It naively assumes that you will have no data.
 - [ ] It does not even try to create accurate predictions.
 - [x] It naively assumes that the predictors are independent from one another.
 - [ ] It naively assumes that all the predictors depend on one another.
+
+**Explanation**: Naive Bayes is called naive because it naively assumes that the predictors are independent from one another.
 
 #### Q14. You work for an ice cream shop and created the chart below, which shows the relationship between the outside temperature and ice cream sales. What is the best description of this chart?
 
@@ -104,6 +130,8 @@
 - [ ] It is a decision tree.
 - [ ] It is a clustering trend chart.
 
+**Explanation**: The chart is best described as a linear regression chart, showing the relationship between temperature and sales.
+
 #### Q15. How is machine learning related to artificial intelligence?
 
 - [ ] Artificial intelligence focuses on classification, while machine learning is about clustering data.
@@ -111,12 +139,16 @@
 - [ ] Artificial intelligence is form of unsupervised machine learning.
 - [ ] Machine learning and artificial intelligence are the same thing.
 
+**Explanation**: Machine learning is a type of artificial intelligence that relies on learning through data.
+
 #### Q16. How do machine learning algorithms make more precise predictions?
 
 - [ ] The algorithms are typically run more powerful servers.
 - [x] The algorithms are better at seeing patterns in the data.
 - [ ] Machine learning servers can host larger databases.
 - [ ] The algorithms can run on unstructured data.
+
+**Explanation**: Machine learning algorithms make more precise predictions because they are better at seeing patterns in the data.
 
 #### Q17. You work for an insurance company. Which machine learning project would add the most value for the company?
 
